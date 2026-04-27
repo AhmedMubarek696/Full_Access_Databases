@@ -3,7 +3,7 @@
 
 <p align="center">  
 <h2 align="center">1- شهادة الطالب</h2>
-<img src="Images/StudentScore/A2b8.PNG" alt="Image 1/8" title="Image 1/8"> <br>
+<img src="1_Student_Score/Images/A2b8.PNG" alt="Image 1/8" title="Image 1/8"> <br>
 <br>
 <br>
   
