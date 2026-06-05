@@ -2,7 +2,7 @@
 <p align="center">Previewing all databases created on Access Database</p>
 
 <p align="center">  
-<img src="2_Bank_Account/Images/image1.PNG" alt="Image 1/8" title="Image 1/8" width=500> <br>
+<img src="1_Student_Score/Images/image4.PNG" alt="Image 4" title="Image 4" width=500> <br>
 <h2 align="center">
   <a href="./2_Bank_Account"> 2- المصرف</a>
 </h2>
