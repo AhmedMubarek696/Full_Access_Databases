@@ -6,7 +6,9 @@
 <h3 align="center">
 تحميل ملف التطبيق
    <br>
-  <a href="/1_Student_Score/Source_Files/5ad_Student_Score_Ar_LD.accdb">Student_Score_Ar_LD</a>
+   للتحميل من الصفحة التالية اضغط زر التحميل فى السطر الأخير (View Raw)
+   <br>
+  <a href="/1_Student_Score/Source_Files/5ad_Student_Score_Ar_LD.accdb">صفحة التحميل</a>
 </h3>
 
 <h3 align="center">
@@ -27,5 +29,5 @@
 <img src="Images/image5.PNG" alt="Image 5/5" title="Image 5/5"> <br>
 <br>
 <br>
-  
+  <br>
 <p/>

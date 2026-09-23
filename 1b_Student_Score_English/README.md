@@ -6,7 +6,9 @@ Grade, Term, Student and Subject lists are added. Then Student are enrolled acco
 <h3 align="center">
 Download Source File
    <br>
-  <a href="/1b_Student_Score_English/Source_Files/003_Student_Score_En_LD.accdb">Student_Score_En_LD</a>
+On the next page, click (View Raw) on the last line to download the file
+   <br>
+  <a href="/1b_Student_Score_English/Source_Files/003_Student_Score_En_LD.accdb">Download Page</a>
 </h3>
 
 <h3 align="center">
